@@ -24,7 +24,7 @@ defineProps({
         </div>
 
         <h1>
-            Hello, world!!!
+            УРА, р-а-б-о-т-а-е-т!!!
         </h1>
 
         <div class="max-w-7xl mx-auto p-6 lg:p-8">
